@@ -1,7 +1,7 @@
 # Practice-Frontend
 A collection of frontend interview practice problems and solutions.
 
-##JavaScript
+## JavaScript
 
  - [Is Integer](/JavaScript/IsInteger.js)
  - [Is Palindrome](/JavaScript/IsPalindrome.js)
