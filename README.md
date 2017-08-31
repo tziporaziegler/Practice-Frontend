@@ -1,5 +1,5 @@
 # Practice-Frontend
-A collection of frontend interview practice problems and solutions
+A collection of frontend interview practice problems and solutions.
 
 ##JavaScript
 
