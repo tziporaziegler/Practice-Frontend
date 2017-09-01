@@ -1,5 +1,5 @@
 /*
-* Given a DOM Element on the page, visit the element itself
+* Given a DOM element on the page, visit the element itself
 * and all of its descendents (not just its immediate children).
 * For each element visited, the function should pass that element to a provided callback function.
 * 
@@ -9,10 +9,10 @@
 */
 
 // This algorithm is an example of a Depth First Search.
-function Traverse(p_element,p_callback) {
+function Traverse(p_element, p_callback) {
    p_callback(p_element);
    var list = p_element.children;
    for (var i = 0; i < list.length; i++) {
-       Traverse(list[i],p_callback);  // recursive call
+       Traverse(list[i], p_callback); // recursive call
    }
 }
